@@ -1,0 +1,2150 @@
+---------------------------------------------------------------
+[ 2023-07-04T13:21:43+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ossdown
+[运行时间：0.179290s] [吞吐率：5.58req/s] [内存消耗：4,076.80kb] [文件加载：130]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001615s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006875s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ossdown',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005845s ]
+[ info ] [ RUN ] app\api\controller\Upld->ossdown[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to a member function getInfo() on null[C:\w\frt\mdm-api\application\api\controller\Upld.php:88]
+---------------------------------------------------------------
+[ 2023-07-04T13:22:06+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ossdown
+[运行时间：0.082589s] [吞吐率：12.11req/s] [内存消耗：4,077.96kb] [文件加载：131]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000032s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002329s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ossdown',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001917s ]
+[ info ] [ RUN ] app\api\controller\Upld->ossdown[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: object_path[C:\w\frt\mdm-api\application\api\controller\Upld.php:252]
+---------------------------------------------------------------
+[ 2023-07-04T13:22:37+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ossdown
+[运行时间：0.413756s] [吞吐率：2.42req/s] [内存消耗：4,644.80kb] [文件加载：131]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001314s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ossdown',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001048s ]
+[ info ] [ RUN ] app\api\controller\Upld->ossdown[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:39:27+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.122646s] [吞吐率：8.15req/s] [内存消耗：4,720.57kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000228s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002799s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002304s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]filesize() expects parameter 1 to be a valid path, resource given[C:\w\frt\mdm-api\application\api\controller\Upld.php:216]
+---------------------------------------------------------------
+[ 2023-07-04T13:41:50+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.519785s] [吞吐率：1.92req/s] [内存消耗：4,787.50kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001604s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001666s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:44:02+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ossdown
+[运行时间：0.516297s] [吞吐率：1.94req/s] [内存消耗：4,689.13kb] [文件加载：131]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000065s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005681s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ossdown',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002496s ]
+[ info ] [ RUN ] app\api\controller\Upld->ossdown[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:50:06+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.086102s] [吞吐率：11.61req/s] [内存消耗：2,998.42kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000035s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004021s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002383s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:51:00+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.029593s] [吞吐率：33.79req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001236s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001031s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:51:21+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.038216s] [吞吐率：26.17req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001375s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001262s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:51:23+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.029932s] [吞吐率：33.41req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001529s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001004s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:51:42+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.032643s] [吞吐率：30.63req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001342s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001083s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:22+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.069011s] [吞吐率：14.49req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000041s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002476s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001847s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:27+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.030328s] [吞吐率：32.97req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001291s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001168s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:28+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.038374s] [吞吐率：26.06req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001430s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001220s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:29+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.028349s] [吞吐率：35.27req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001402s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001048s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:30+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/upload
+[运行时间：0.036483s] [吞吐率：27.41req/s] [内存消耗：2,998.50kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000030s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001771s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001404s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:55:34+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/index/upload
+[运行时间：0.052654s] [吞吐率：18.99req/s] [内存消耗：4,040.82kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001720s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001016s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:56:04+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/index/upload
+[运行时间：0.032049s] [吞吐率：31.20req/s] [内存消耗：4,041.43kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001164s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001016s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:56:48+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.033659s] [吞吐率：29.71req/s] [内存消耗：3,096.62kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001215s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001072s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:57:13+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.033353s] [吞吐率：29.98req/s] [内存消耗：4,031.70kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001258s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000997s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Mod->upload[ C:\w\frt\mdm-api\application\index\controller\Mod.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:57:32+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.037508s] [吞吐率：26.66req/s] [内存消耗：3,097.20kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001761s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001181s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:57:44+08:00 ] 0.0.0.0 GET localhost:81/index.php/mod/upload
+[运行时间：0.028922s] [吞吐率：34.58req/s] [内存消耗：2,712.62kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001207s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mod',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:58:08+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.032227s] [吞吐率：31.03req/s] [内存消耗：4,031.70kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001288s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001052s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Mod->upload[ C:\w\frt\mdm-api\application\index\controller\Mod.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:58:22+08:00 ] 0.0.0.0 GET localhost:81/index.php/mod/upload
+[运行时间：0.025721s] [吞吐率：38.88req/s] [内存消耗：2,712.66kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001197s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mod',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:59:03+08:00 ] 0.0.0.0 GET localhost:81/index.php/mod/upload
+[运行时间：0.026280s] [吞吐率：38.05req/s] [内存消耗：2,712.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001254s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mod',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:59:05+08:00 ] 0.0.0.0 GET localhost:81/index.php/mod/upload
+[运行时间：0.024913s] [吞吐率：40.14req/s] [内存消耗：2,712.74kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000025s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001182s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mod',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:59:33+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.043543s] [吞吐率：22.97req/s] [内存消耗：4,031.12kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001736s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001371s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Mod->upload[ C:\w\frt\mdm-api\application\index\controller\Mod.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:59:42+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.032533s] [吞吐率：30.74req/s] [内存消耗：4,031.70kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001248s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001297s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Mod->upload[ C:\w\frt\mdm-api\application\index\controller\Mod.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T13:59:44+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/mod/upload
+[运行时间：0.034932s] [吞吐率：28.63req/s] [内存消耗：4,031.70kb] [文件加载：128]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000026s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001687s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'mod',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000980s ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Mod->upload[ C:\w\frt\mdm-api\application\index\controller\Mod.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:00:11+08:00 ] 0.0.0.0 GET localhost:81/index.php/mod/upload
+[运行时间：0.025746s] [吞吐率：38.84req/s] [内存消耗：2,712.66kb] [文件加载：115]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000030s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001273s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mod',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:18:40+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/index/upload
+[运行时间：0.156676s] [吞吐率：6.38req/s] [内存消耗：4,041.43kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000918s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005636s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005508s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:26:36+08:00 ] 0.0.0.0 GET localhost:81/index/index/upload
+[运行时间：0.137646s] [吞吐率：7.27req/s] [内存消耗：4,043.46kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002954s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004308s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004166s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:26:45+08:00 ] 0.0.0.0 GET localhost:81//index/upload
+[运行时间：0.039341s] [吞吐率：25.42req/s] [内存消耗：3,000.99kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002118s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001144s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:27:29+08:00 ] 0.0.0.0 GET localhost:81//index/upload
+[运行时间：0.031003s] [吞吐率：32.25req/s] [内存消耗：3,001.13kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001386s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001154s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:27:32+08:00 ] 0.0.0.0 GET localhost:81//index/upload
+[运行时间：0.036318s] [吞吐率：27.53req/s] [内存消耗：3,001.13kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001720s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001436s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:27:35+08:00 ] 0.0.0.0 GET localhost:81/index/upload
+[运行时间：0.036035s] [吞吐率：27.75req/s] [内存消耗：3,001.01kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001268s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001153s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:27:37+08:00 ] 0.0.0.0 GET localhost:81/index/upload
+[运行时间：0.029946s] [吞吐率：33.39req/s] [内存消耗：3,001.13kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001241s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001012s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:28:00+08:00 ] 0.0.0.0 GET localhost:81/index/upload
+[运行时间：0.039712s] [吞吐率：25.18req/s] [内存消耗：3,001.13kb] [文件加载：119]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000032s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001456s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'upload',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001375s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:29:36+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/index/upload
+[运行时间：0.205075s] [吞吐率：4.88req/s] [内存消耗：4,040.85kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000032s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.011947s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002541s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:30:10+08:00 ] 0.0.0.0 GET localhost:81/index.php?/index/index/upload
+[运行时间：0.034679s] [吞吐率：28.84req/s] [内存消耗：4,040.73kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001369s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  '/index/index/upload' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001449s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:30:15+08:00 ] 0.0.0.0 GET localhost:81/index.php/index/index/upload
+[运行时间：0.034685s] [吞吐率：28.83req/s] [内存消耗：4,040.85kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001276s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001002s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:32:33+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=index/index/upload
+[运行时间：0.056552s] [吞吐率：17.68req/s] [内存消耗：4,043.69kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001945s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002492s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:32:36+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=index/index/upload
+[运行时间：0.042077s] [吞吐率：23.77req/s] [内存消耗：4,043.77kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000055s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002201s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001158s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:32:56+08:00 ] 0.0.0.0 GET localhost:81/index/upload
+[运行时间：0.033661s] [吞吐率：29.71req/s] [内存消耗：4,043.80kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001273s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001094s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:36:23+08:00 ] 0.0.0.0 GET localhost:81/index/upload
+[运行时间：0.082801s] [吞吐率：12.08req/s] [内存消耗：3,935.12kb] [文件加载：123]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.006679s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002408s ]
+[ info ] [ RUN ] app\api\controller\Index->upload[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:39:09+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.558161s] [吞吐率：1.79req/s] [内存消耗：4,787.50kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000038s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001912s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld2.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryANuey6blguF60cds',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001362s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:39:50+08:00 ] 0.0.0.0 POST localhost:81/index/upload
+[运行时间：0.255238s] [吞吐率：3.92req/s] [内存消耗：5,036.14kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000061s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001326s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld2.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarynmjvurLb2a2cD6rM',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001008s ]
+[ info ] [ RUN ] app\api\controller\Index->upload[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:46:37+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=index/index/upload
+[运行时间：0.096436s] [吞吐率：10.37req/s] [内存消耗：4,043.77kb] [文件加载：129]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002891s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002585s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->upload[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:46:41+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/index/upload
+[运行时间：0.038206s] [吞吐率：26.17req/s] [内存消耗：4,217.13kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000033s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001444s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001165s ]
+[ info ] [ RUN ] app\api\controller\Index->upload[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:49:44+08:00 ] 0.0.0.0 POST localhost:81/index/upload
+[运行时间：0.502571s] [吞吐率：1.99req/s] [内存消耗：5,040.27kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000036s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002602s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld2.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryPsHrW2MWXt0zs5tr',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002096s ]
+[ info ] [ RUN ] app\api\controller\Index->upload[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-04T14:50:30+08:00 ] 0.0.0.0 POST localhost:81/index/upload
+[运行时间：0.241929s] [吞吐率：4.13req/s] [内存消耗：5,193.32kb] [文件加载：140]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002036s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'upload',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld2.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryPsHrW2MWXt0zs5tr',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001818s ]
+[ info ] [ RUN ] app\api\controller\Index->upload[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]InvalidAccessKeyId: The OSS Access Key Id you provided does not exist in our records. RequestId: 64A3C136817FCE22788D962E[C:\w\frt\mdm-api\vendor\aliyuncs\oss-sdk-php\src\OSS\Result\Result.php:97]

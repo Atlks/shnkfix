@@ -1,0 +1,209 @@
+cache-uploads/20230703//1688390167.ipa
+cache-uploads/20230703//1688390212.ipa
+{}
+cache-uploads/20230703//1688390276.ipa
+{}
+cache-uploads/20230703//1688390369.ipa
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688390571.ipa
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688390601.ipa
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688390825.ipa
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688390910.ipa
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688390963.ipa
+"checkEndpoint start"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688391011.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230703//1688391059.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+cache-uploads/20230703//1688391122.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+cache-uploads/20230703//1688391154.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+cache-uploads/20230703//1688391161.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+cache-uploads/20230703//1688391196.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+cache-uploads/20230703//1688391235.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+{"content":{},"bucket":"kkhhhiissz","method":"PUT","object":"cache-uploads\/20230703\/\/1688391235.ipa","Content-Length":549,"Content-Type":"application\/octet-stream"}
+cache-uploads/20230703//1688391292.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+{"content":"aaaaaa","bucket":"kkhhhiissz","method":"PUT","object":"cache-uploads\/20230703\/\/1688391292.ipa","Content-Length":6,"Content-Type":"application\/octet-stream"}
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Mon, 03 Jul 2023 13:34:53 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A2CE7D6DB0A828F4A4AFFA","etag":"\"0B4E7A0E5FE84AD35FB5F95B9CEEAC79\"","x-oss-hash-crc64ecma":"3532940823972053759","content-md5":"C056Dl\/oStNftflbnO6seQ==","x-oss-server-time":"8","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230703\/\/1688391292.ipa","content_type":null,"http_code":200,"header_size":308,"request_size":489,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.385844,"namelookup_time":0.246652,"connect_time":0.307435,"pretransfer_time":0.307644,"size_upload":6,"size_download":0,"speed_download":0,"speed_upload":15,"download_content_length":0,"upload_content_length":6,"starttransfer_time":0.385768,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":52991,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":307435,"namelookup_time_us":246652,"pretransfer_time_us":307644,"redirect_time_us":0,"starttransfer_time_us":385768,"total_time_us":385844,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230703\/\/1688391292.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nC056Dl\/oStNftflbnO6seQ==\napplication\/octet-stream\nMon, 03 Jul 2023 13:34:52 GMT\n\/kkhhhiissz\/cache-uploads\/20230703\/\/1688391292.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"6","Content-Md5":"C056Dl\/oStNftflbnO6seQ==","Content-Type":"application\/octet-stream","Date":"Mon, 03 Jul 2023 13:34:52 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:eBg7cwUg7lixo5sNDeJ\/l+gzR0M="}},"body":"","status":200}
+cache-uploads/20230703//1688391465.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+{"content":"C:\\Windows\\php6340.tmp","bucket":"kkhhhiissz","method":"PUT","object":"cache-uploads\/20230703\/\/1688391465.ipa","Content-Length":22,"Content-Type":"application\/octet-stream"}
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Mon, 03 Jul 2023 13:37:46 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A2CF2A34269A4E2C9DCEF3","etag":"\"EFFAE3C829B693CEBDC61A27C55D1E6A\"","x-oss-hash-crc64ecma":"7122261882324316537","content-md5":"7\/rjyCm2k869xhonxV0eag==","x-oss-server-time":"8","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230703\/\/1688391465.ipa","content_type":null,"http_code":200,"header_size":308,"request_size":506,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.610556,"namelookup_time":0.515175,"connect_time":0.549037,"pretransfer_time":0.549123,"size_upload":22,"size_download":0,"speed_download":0,"speed_upload":36,"download_content_length":0,"upload_content_length":22,"starttransfer_time":0.610475,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":53165,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":549037,"namelookup_time_us":515175,"pretransfer_time_us":549123,"redirect_time_us":0,"starttransfer_time_us":610475,"total_time_us":610556,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230703\/\/1688391465.ipa","oss-redirects":0,"oss-stringtosign":"PUT\n7\/rjyCm2k869xhonxV0eag==\napplication\/octet-stream\nMon, 03 Jul 2023 13:37:45 GMT\n\/kkhhhiissz\/cache-uploads\/20230703\/\/1688391465.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"22","Content-Md5":"7\/rjyCm2k869xhonxV0eag==","Content-Type":"application\/octet-stream","Date":"Mon, 03 Jul 2023 13:37:45 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:5JyzPX3eSTCrpQEbHZeDF3R8po4="}},"body":"","status":200}
+cache-uploads/20230703//1688391465.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"object content:"
+"C:\\Windows\\php6340.tmp"
+cache-uploads/20230704//1688449167.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+cache-uploads/20230704//1688449310.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Tue, 04 Jul 2023 05:41:51 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A3B11E54D8528E897A800E","etag":"\"0627B4727E2BFE1D1CB7F06B82BFCC5C\"","x-oss-hash-crc64ecma":"4795638260406183740","content-md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","x-oss-server-time":"48","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688449310.ipa","content_type":null,"http_code":200,"header_size":334,"request_size":509,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.463078,"namelookup_time":0.24559,"connect_time":0.281459,"pretransfer_time":0.281612,"size_upload":59904,"size_download":0,"speed_download":0,"speed_upload":129382,"download_content_length":0,"upload_content_length":59904,"starttransfer_time":0.316444,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":54715,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":281459,"namelookup_time_us":245590,"pretransfer_time_us":281612,"redirect_time_us":0,"starttransfer_time_us":316444,"total_time_us":463078,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688449310.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nBie0cn4r\/h0ct\/Brgr\/MXA==\napplication\/octet-stream\nTue, 04 Jul 2023 05:41:50 GMT\n\/kkhhhiissz\/cache-uploads\/20230704\/\/1688449310.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"59904","Content-Md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","Content-Type":"application\/octet-stream","Date":"Tue, 04 Jul 2023 05:41:50 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:K1+42GzIpeiB4UBoqJNO4nkCAtU="}},"body":"","status":200}
+cache-uploads/20230704//1688449310.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"object content:"
+
+cache-uploads/20230704//1688452748.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Tue, 04 Jul 2023 06:39:09 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A3BE8DE2DC5AE7C88B0265","etag":"\"0627B4727E2BFE1D1CB7F06B82BFCC5C\"","x-oss-hash-crc64ecma":"4795638260406183740","content-md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","x-oss-server-time":"34","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688452748.ipa","content_type":null,"http_code":200,"header_size":334,"request_size":509,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.482039,"namelookup_time":0.268186,"connect_time":0.31829,"pretransfer_time":0.318489,"size_upload":59904,"size_download":0,"speed_download":0,"speed_upload":124282,"download_content_length":0,"upload_content_length":59904,"starttransfer_time":0.352196,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":57930,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":318290,"namelookup_time_us":268186,"pretransfer_time_us":318489,"redirect_time_us":0,"starttransfer_time_us":352196,"total_time_us":482039,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688452748.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nBie0cn4r\/h0ct\/Brgr\/MXA==\napplication\/octet-stream\nTue, 04 Jul 2023 06:39:08 GMT\n\/kkhhhiissz\/cache-uploads\/20230704\/\/1688452748.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"59904","Content-Md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","Content-Type":"application\/octet-stream","Date":"Tue, 04 Jul 2023 06:39:08 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:9jHzdQk0gkuPQ9iuwUoizsNFj8c="}},"body":"","status":200}
+cache-uploads/20230704//1688452789.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Tue, 04 Jul 2023 06:39:50 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A3BEB657E616E5968EA3F3","etag":"\"0627B4727E2BFE1D1CB7F06B82BFCC5C\"","x-oss-hash-crc64ecma":"4795638260406183740","content-md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","x-oss-server-time":"16","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688452789.ipa","content_type":null,"http_code":200,"header_size":334,"request_size":509,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.205056,"namelookup_time":0.000659,"connect_time":0.035202,"pretransfer_time":0.035306,"size_upload":59904,"size_download":0,"speed_download":0,"speed_upload":292214,"download_content_length":0,"upload_content_length":59904,"starttransfer_time":0.069531,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":57982,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":35202,"namelookup_time_us":659,"pretransfer_time_us":35306,"redirect_time_us":0,"starttransfer_time_us":69531,"total_time_us":205056,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688452789.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nBie0cn4r\/h0ct\/Brgr\/MXA==\napplication\/octet-stream\nTue, 04 Jul 2023 06:39:49 GMT\n\/kkhhhiissz\/cache-uploads\/20230704\/\/1688452789.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"59904","Content-Md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","Content-Type":"application\/octet-stream","Date":"Tue, 04 Jul 2023 06:39:49 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:Bf7ZJi9lurHhcOxFmBMPVEf9BsM="}},"body":"","status":200}
+cache-uploads/20230704//1688453383.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Tue, 04 Jul 2023 06:49:44 GMT","content-length":"0","connection":"keep-alive","x-oss-request-id":"64A3C10884758F1CC09424E2","etag":"\"0627B4727E2BFE1D1CB7F06B82BFCC5C\"","x-oss-hash-crc64ecma":"4795638260406183740","content-md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","x-oss-server-time":"24","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688453383.ipa","content_type":null,"http_code":200,"header_size":334,"request_size":509,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.384952,"namelookup_time":0.176286,"connect_time":0.210982,"pretransfer_time":0.211066,"size_upload":59904,"size_download":0,"speed_download":0,"speed_upload":156000,"download_content_length":0,"upload_content_length":59904,"starttransfer_time":0.244741,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":58640,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":210982,"namelookup_time_us":176286,"pretransfer_time_us":211066,"redirect_time_us":0,"starttransfer_time_us":244741,"total_time_us":384952,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688453383.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nBie0cn4r\/h0ct\/Brgr\/MXA==\napplication\/octet-stream\nTue, 04 Jul 2023 06:49:43 GMT\n\/kkhhhiissz\/cache-uploads\/20230704\/\/1688453383.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"59904","Content-Md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","Content-Type":"application\/octet-stream","Date":"Tue, 04 Jul 2023 06:49:43 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW:nWsmV\/h39COPNrLZD88l6+al79w="}},"body":"","status":200}
+cache-uploads/20230704//1688453430.ipa
+"checkEndpoint start"
+"checkEndpoint end"
+{}
+{"accessKeyId":"LTAI5tH2gLxNXdnBa1r48NSW000","accessKeySecret":"qION2kleswPHwoEQBXH6snjH90znpC","endpoint":"http:\/\/oss-accelerate.aliyuncs.com"}
+{}
+"putObject start"
+"precheckCommon end"
+"isCheckMD5 end"
+"auth bvef"
+"options::"
+
+"auth end"
+{"header":{"server":"AliyunOSS","date":"Tue, 04 Jul 2023 06:50:30 GMT","content-type":"application\/xml","content-length":"373","connection":"keep-alive","x-oss-request-id":"64A3C136817FCE22788D962E","x-oss-server-time":"8","x-oss-ec":"0002-00000902","info":{"url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688453430.ipa","content_type":"application\/xml","http_code":403,"header_size":274,"request_size":512,"filetime":-1,"ssl_verify_result":0,"redirect_count":0,"total_time":0.138278,"namelookup_time":0.04316,"connect_time":0.077644,"pretransfer_time":0.077743,"size_upload":59904,"size_download":373,"speed_download":2702,"speed_upload":434086,"download_content_length":373,"upload_content_length":59904,"starttransfer_time":0.119006,"redirect_time":0,"redirect_url":"","primary_ip":"47.57.198.77","certinfo":[],"primary_port":80,"local_ip":"192.168.100.220","local_port":58712,"http_version":2,"protocol":1,"ssl_verifyresult":0,"scheme":"HTTP","appconnect_time_us":0,"connect_time_us":77644,"namelookup_time_us":43160,"pretransfer_time_us":77743,"redirect_time_us":0,"starttransfer_time_us":119006,"total_time_us":138278,"method":"PUT"},"oss-request-url":"http:\/\/kkhhhiissz.oss-accelerate.aliyuncs.com\/cache-uploads\/20230704\/\/1688453430.ipa","oss-redirects":0,"oss-stringtosign":"PUT\nBie0cn4r\/h0ct\/Brgr\/MXA==\napplication\/octet-stream\nTue, 04 Jul 2023 06:50:30 GMT\n\/kkhhhiissz\/cache-uploads\/20230704\/\/1688453430.ipa","oss-requestheaders":{"Accept-Encoding":"","Content-Length":"59904","Content-Md5":"Bie0cn4r\/h0ct\/Brgr\/MXA==","Content-Type":"application\/octet-stream","Date":"Tue, 04 Jul 2023 06:50:30 GMT","Host":"kkhhhiissz.oss-accelerate.aliyuncs.com","Authorization":"OSS LTAI5tH2gLxNXdnBa1r48NSW000:Z3EAKPkUIYz\/RSw52uxcj\/8NLpI="}},"body":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<Error>\n  <Code>InvalidAccessKeyId<\/Code>\n  <Message>The OSS Access Key Id you provided does not exist in our records.<\/Message>\n  <RequestId>64A3C136817FCE22788D962E<\/RequestId>\n  <HostId>kkhhhiissz.oss-accelerate.aliyuncs.com<\/HostId>\n  <OSSAccessKeyId>LTAI5tH2gLxNXdnBa1r48NSW000<\/OSSAccessKeyId>\n  <EC>0002-00000902<\/EC>\n<\/Error>\n","status":403}

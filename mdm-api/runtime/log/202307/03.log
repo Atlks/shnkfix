@@ -1,0 +1,1138 @@
+---------------------------------------------------------------
+[ 2023-07-03T13:20:46+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ovss
+[运行时间：0.057782s] [吞吐率：17.31req/s] [内存消耗：2,614.95kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ovss',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004600s ]
+[ info ] [ RUN ] app\api\controller\Upld->ovss[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T13:25:29+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ovss
+[运行时间：0.038044s] [吞吐率：26.29req/s] [内存消耗：2,619.04kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ovss',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003294s ]
+[ info ] [ RUN ] app\api\controller\Upld->ovss[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T13:25:39+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ovss
+[运行时间：0.018280s] [吞吐率：54.71req/s] [内存消耗：2,618.96kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ovss',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001060s ]
+[ info ] [ RUN ] app\api\controller\Upld->ovss[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T13:28:23+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ip_loc
+[运行时间：0.019480s] [吞吐率：51.33req/s] [内存消耗：2,619.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ip_loc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001272s ]
+[ info ] [ RUN ] app\api\controller\Upld->ip_loc[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T13:28:28+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ip_loc
+[运行时间：0.021923s] [吞吐率：45.61req/s] [内存消耗：2,619.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ip_loc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001044s ]
+[ info ] [ RUN ] app\api\controller\Upld->ip_loc[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T20:38:37+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.078573s] [吞吐率：12.73req/s] [内存消耗：1,711.27kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.004621s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected 'use' (T_USE)[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:22]
+---------------------------------------------------------------
+[ 2023-07-03T20:39:09+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.024516s] [吞吐率：40.79req/s] [内存消耗：1,869.75kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001107s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T20:39:28+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.028809s] [吞吐率：34.71req/s] [内存消耗：2,352.45kb] [文件加载：47]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001265s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'OSS\OssClient' not found[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:69]
+---------------------------------------------------------------
+[ 2023-07-03T20:46:36+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.046310s] [吞吐率：21.59req/s] [内存消耗：2,353.05kb] [文件加载：47]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002112s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'OSS\OssClient' not found[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:71]
+---------------------------------------------------------------
+[ 2023-07-03T20:46:39+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.024469s] [吞吐率：40.87req/s] [内存消耗：2,353.05kb] [文件加载：47]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001084s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'OSS\OssClient' not found[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:71]
+---------------------------------------------------------------
+[ 2023-07-03T20:46:39+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.020504s] [吞吐率：48.77req/s] [内存消耗：2,353.05kb] [文件加载：47]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001133s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'OSS\OssClient' not found[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:71]
+---------------------------------------------------------------
+[ 2023-07-03T20:46:59+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.019368s] [吞吐率：51.63req/s] [内存消耗：2,353.05kb] [文件加载：47]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001148s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Class 'OSS\OssClient' not found[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:72]
+---------------------------------------------------------------
+[ 2023-07-03T20:49:26+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.875907s] [吞吐率：1.14req/s] [内存消耗：4,431.56kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000032s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.004679s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003567s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T20:50:05+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.030828s] [吞吐率：32.44req/s] [内存消耗：3,001.74kb] [文件加载：121]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000027s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001260s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000970s ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]语法解析错误: syntax error, unexpected '；' (T_STRING), expecting ',' or ';'[C:\w\frt\mdm-api\application\api\controller\Upldoss.php:77]
+---------------------------------------------------------------
+[ 2023-07-03T20:50:15+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upldoss/upldoss737
+[运行时间：0.194143s] [吞吐率：5.15req/s] [内存消耗：4,431.56kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001650s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upldoss',
+    2 => 'upldoss737',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001134s ]
+[ info ] [ RUN ] app\api\controller\Upldoss->upldoss737[ C:\w\frt\mdm-api\application\api\controller\Upldoss.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:02:06+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload653
+[运行时间：0.108409s] [吞吐率：9.22req/s] [内存消耗：3,991.05kb] [文件加载：127]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000040s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003579s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryU1LYEZjf1foQ0jQF',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '188',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003178s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:02:38+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.051289s] [吞吐率：19.50req/s] [内存消耗：4,067.96kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000035s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001266s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001004s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:02:49+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.047246s] [吞吐率：21.17req/s] [内存消耗：4,067.96kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000030s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001540s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001314s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:03:41+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.035270s] [吞吐率：28.35req/s] [内存消耗：4,067.96kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000029s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001311s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001104s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:04:54+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.043461s] [吞吐率：23.01req/s] [内存消耗：4,068.38kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000067s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001531s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001145s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:05:40+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.045045s] [吞吐率：22.20req/s] [内存消耗：4,068.66kb] [文件加载：126]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000043s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002480s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001103s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:06:13+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.037869s] [吞吐率：26.41req/s] [内存消耗：4,014.24kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000037s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001408s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001131s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:07:52+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.052722s] [吞吐率：18.97req/s] [内存消耗：4,694.58kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000028s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001480s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001133s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: object[C:\w\frt\mdm-api\application\api\controller\Upld.php:202]
+---------------------------------------------------------------
+[ 2023-07-03T21:08:38+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.040462s] [吞吐率：24.71req/s] [内存消耗：4,694.58kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000030s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001472s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001086s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: object[C:\w\frt\mdm-api\application\api\controller\Upld.php:202]
+---------------------------------------------------------------
+[ 2023-07-03T21:08:50+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.039952s] [吞吐率：25.03req/s] [内存消耗：4,694.58kb] [文件加载：135]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000031s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001243s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001038s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: object[C:\w\frt\mdm-api\application\api\controller\Upld.php:202]
+---------------------------------------------------------------
+[ 2023-07-03T21:15:43+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.101894s] [吞吐率：9.81req/s] [内存消耗：4,237.34kb] [文件加载：133]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000376s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002844s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002371s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]A non-numeric value encountered[C:\w\frt\mdm-api\application\api\controller\Upld.php:201]
+---------------------------------------------------------------
+[ 2023-07-03T21:34:52+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.445832s] [吞吐率：2.24req/s] [内存消耗：4,778.67kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000132s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.001946s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001423s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-03T21:37:45+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload751
+[运行时间：0.703890s] [吞吐率：1.42req/s] [内存消耗：4,778.64kb] [文件加载：134]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.000034s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.002897s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload751',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary8qf7QnZs5fCtK1TH',
+  'origin' => 'http://localhost:81',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002147s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload751[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File

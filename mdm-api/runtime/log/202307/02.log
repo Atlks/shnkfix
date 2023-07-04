@@ -1,0 +1,2686 @@
+---------------------------------------------------------------
+[ 2023-07-02T17:55:27+08:00 ] 0.0.0.0 GET localhost:81/
+[运行时间：0.043793s] [吞吐率：22.83req/s] [内存消耗：2,659.37kb] [文件加载：49]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002750s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/index/lang/zh-cn/index.php
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\w\frt\mdm-api\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T17:56:02+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/index/fff?AliyunTag=63c7e9b6c2bc2
+[运行时间：0.025569s] [吞吐率：39.11req/s] [内存消耗：2,492.80kb] [文件加载：42]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'index',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'AliyunTag' => '63c7e9b6c2bc2',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001140s ]
+[ info ] [ RUN ] app\api\controller\Index->fff[ C:\w\frt\mdm-api\application\api\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:44:35+08:00 ] 0.0.0.0 GET localhost:81/index.php/s=api/upld/fff
+[运行时间：0.048485s] [吞吐率：20.62req/s] [内存消耗：1,423.13kb] [文件加载：35]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 's=api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:44:41+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/fff
+[运行时间：0.022861s] [吞吐率：43.74req/s] [内存消耗：2,048.17kb] [文件加载：43]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002230s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:45:01+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=upld/fff
+[运行时间：0.013376s] [吞吐率：74.76req/s] [内存消耗：1,426.02kb] [文件加载：35]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'upld',
+    1 => 'fff',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:45:07+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/fff
+[运行时间：0.018963s] [吞吐率：52.73req/s] [内存消耗：2,048.17kb] [文件加载：43]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001076s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:45:12+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/fff
+[运行时间：0.017468s] [吞吐率：57.25req/s] [内存消耗：2,045.25kb] [文件加载：43]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001043s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:45:15+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/fff
+[运行时间：0.017287s] [吞吐率：57.85req/s] [内存消耗：2,045.38kb] [文件加载：43]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001039s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:45:21+08:00 ] 0.0.0.0 GET localhost:81/index.php/upld/fff
+[运行时间：0.014006s] [吞吐率：71.40req/s] [内存消耗：1,423.09kb] [文件加载：35]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'upld',
+    1 => 'fff',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:46:04+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/fff
+[运行时间：0.023330s] [吞吐率：42.86req/s] [内存消耗：2,046.77kb] [文件加载：42]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001090s ]
+[ info ] [ RUN ] app\api\controller\Upld->fff[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\api\controller\Upld::success()[C:\w\frt\mdm-api\application\api\controller\Upld.php:58]
+---------------------------------------------------------------
+[ 2023-07-02T19:46:32+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/fff
+[运行时间：0.017658s] [吞吐率：56.63req/s] [内存消耗：1,939.36kb] [文件加载：38]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001178s ]
+[ info ] [ RUN ] app\api\controller\Upld->fff[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:46:53+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/fff
+[运行时间：0.017012s] [吞吐率：58.78req/s] [内存消耗：1,942.16kb] [文件加载：38]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'fff',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001431s ]
+[ info ] [ RUN ] app\api\controller\Upld->fff[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:54:19+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upld652
+[运行时间：0.022583s] [吞吐率：44.28req/s] [内存消耗：2,054.24kb] [文件加载：42]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upld652',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001310s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:54:35+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/uplodd652
+[运行时间：0.018012s] [吞吐率：55.52req/s] [内存消耗：2,054.26kb] [文件加载：42]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'uplodd652',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001075s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:54:40+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload652
+[运行时间：0.014969s] [吞吐率：66.81req/s] [内存消耗：1,950.97kb] [文件加载：38]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload652',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001085s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload652[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T19:54:45+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.018176s] [吞吐率：55.02req/s] [内存消耗：1,803.69kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001088s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:06:54+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.040017s] [吞吐率：24.99req/s] [内存消耗：1,802.66kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryLFKJeeyUpDftDEwt',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '44',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002488s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:10:46+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.024465s] [吞吐率：40.87req/s] [内存消耗：1,799.63kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '0',
+  'connection' => 'close',
+  'accept-encoding' => 'gzip, deflate, br',
+  'host' => 'localhost:81',
+  'accept' => '*/*',
+  'user-agent' => 'Apifox/1.0.0 (https://apifox.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002061s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:13:53+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.020582s] [吞吐率：48.59req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarycETUPH4BiDQ622Py',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '135',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001156s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:13:56+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.017939s] [吞吐率：55.74req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryNrk3SIpUTV1CGSbS',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '135',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file' => '',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001681s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:15:04+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.023829s] [吞吐率：41.97req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryr8Zgy1zxH1Bl7Utc',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000990s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:07+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015709s] [吞吐率：63.66req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryBK5l9IpLvQw4lOgE',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000992s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:08+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015146s] [吞吐率：66.02req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryJybjqlhUL6NQObOO',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001077s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:11+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.021488s] [吞吐率：46.54req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryucHBwUZf8xjCeYik',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001058s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:35+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014265s] [吞吐率：70.10req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryFJ3PkxdmqhEKiZoQ',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001017s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:38+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015796s] [吞吐率：63.31req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryD3vBHVxpAdY7ry1m',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000976s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:39+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015658s] [吞吐率：63.86req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryvYc9AGnh2xfBDiPz',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001039s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:51+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014988s] [吞吐率：66.72req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryOpLG9cRZXHDDMKRT',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001008s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:52+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.019595s] [吞吐率：51.03req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary9S3BJs384fzO5Yi4',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000946s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:53+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015929s] [吞吐率：62.78req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryEThqEaI0AM3wEP4l',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000958s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:53+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014958s] [吞吐率：66.85req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarybrKZeBexyAe7ylaK',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001026s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:15:53+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.018238s] [吞吐率：54.83req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryspOnh2o5AvpxSbMy',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000957s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:16:13+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.017319s] [吞吐率：57.74req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryvY6bImeraRkwPN0O',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001142s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:16:14+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.022952s] [吞吐率：43.57req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryxuaFCPjeNp8n8sFB',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001719s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:16:14+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.017157s] [吞吐率：58.28req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarytzlA5M92M05eTnZS',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000943s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:16:22+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014957s] [吞吐率：66.86req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryQOVNAfW7cszawHTA',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001007s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:23+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.012436s] [吞吐率：80.41req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryLSTcGmMwEXzDqbLm',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000999s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:24+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015073s] [吞吐率：66.34req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryAPZSmov97cN5eQQq',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001104s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:25+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015441s] [吞吐率：64.76req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary5zSVPiw1rWJbyx6r',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000957s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:26+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014654s] [吞吐率：68.24req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarylnVQ1aKAAAi6joBZ',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000942s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:31+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014519s] [吞吐率：68.88req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryx07HdNMeYC9J6piq',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000939s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:51+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.012060s] [吞吐率：82.92req/s] [内存消耗：1,803.77kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000973s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:55+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.013553s] [吞吐率：73.78req/s] [内存消耗：1,803.77kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001462s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:16:56+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.025076s] [吞吐率：39.88req/s] [内存消耗：1,803.77kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002261s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:17:03+08:00 ] 0.0.0.0 GET localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.012783s] [吞吐率：78.23req/s] [内存消耗：1,803.69kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001033s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:17:58+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.016065s] [吞吐率：62.25req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryfHtTolZQKEBuNPV9',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000952s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:17:59+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.012489s] [吞吐率：80.07req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryItO55OQfmrbWwcEp',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000969s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:18:01+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014395s] [吞吐率：69.47req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryYtArpS10Hfsr1znm',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001094s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:18:02+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.018996s] [吞吐率：52.64req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryoGgYvgAqPAUHBSjp',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001195s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:18:06+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014945s] [吞吐率：66.91req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary151CpMQANPjoNewR',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000961s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:19:11+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.018085s] [吞吐率：55.29req/s] [内存消耗：1,802.95kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarylId7khdfERSTVy3P',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '139',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+  'file2' => '444',
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001257s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:19:37+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.017307s] [吞吐率：57.78req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryTKK2pYoBa7niRnAD',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001013s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:21:59+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.030115s] [吞吐率：33.21req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryqQiXUQOzfIxiUVEA',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002443s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:25:05+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.033095s] [吞吐率：30.22req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryuiUeIo5Lu3OMbIAm',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.002306s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:25:07+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015389s] [吞吐率：64.98req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryDANPpGtKWvphkOY0',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000981s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:25:50+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.038233s] [吞吐率：26.16req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryGwpyxu9Zd2M2Ykj4',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003131s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:26:55+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload6531
+[运行时间：0.016970s] [吞吐率：58.93req/s] [内存消耗：1,997.26kb] [文件加载：39]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload6531',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryvHidAnUq4famJLoz',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001274s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:26:59+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload6531
+[运行时间：0.016078s] [吞吐率：62.20req/s] [内存消耗：1,997.26kb] [文件加载：39]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload6531',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryhoLVP95StevEVylF',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001060s ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:27:07+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.017678s] [吞吐率：56.57req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryRWTZWrPbUUf03YJR',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001429s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:27:19+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.014072s] [吞吐率：71.06req/s] [内存消耗：2,004.82kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryLVjNqkc9MpPGgJ2l',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60103',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000964s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:27:23+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.016008s] [吞吐率：62.47req/s] [内存消耗：2,060.91kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryTe2afJA7RsdqjVmw',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000971s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:33:28+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.040896s] [吞吐率：24.45req/s] [内存消耗：2,061.02kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryCMZeQdKlJtQI55t9',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.003524s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: info[C:\w\frt\mdm-api\application\api\controller\Upld.php:74]
+---------------------------------------------------------------
+[ 2023-07-02T20:34:01+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.018175s] [吞吐率：55.02req/s] [内存消耗：2,061.10kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryyDe2CuCMzZTBMJYy',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001086s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:36:05+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.020316s] [吞吐率：49.22req/s] [内存消耗：2,061.10kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary7i72p1ZczxDvqSCT',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001352s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:36:06+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015119s] [吞吐率：66.14req/s] [内存消耗：2,061.10kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryjDVtXBscdqqMSBmf',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001196s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:36:07+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api%2Fupld%2Fupload653
+[运行时间：0.015594s] [吞吐率：64.13req/s] [内存消耗：2,061.10kb] [文件加载：41]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not?A_Brand";v="8", "Chromium";v="108"',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) runapi/3.0.7 Chrome/108.0.5359.215 Electron/22.3.2 Safari/537.36',
+  'sec-fetch-site' => 'cross-site',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarywoytxkwslRW1WRxF',
+  'accept-language' => 'zh-CN',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'application/json',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001156s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:38:26+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.022464s] [吞吐率：44.52req/s] [内存消耗：2,119.81kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryMGjwTmsx8TAmXZT4',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001259s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:39:57+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.018184s] [吞吐率：54.99req/s] [内存消耗：2,119.81kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryoIYAAOcfn862hAK4',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001080s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [2]hash_file(): Unknown hashing algorithm: extension[C:\w\frt\mdm-api\thinkphp\library\think\File.php:139]
+---------------------------------------------------------------
+[ 2023-07-02T20:40:58+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.021698s] [吞吐率：46.09req/s] [内存消耗：2,119.76kb] [文件加载：44]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundarysIXABFCaUAw6bab0',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001231s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: host[C:\w\frt\mdm-api\application\api\controller\Upld.php:86]
+---------------------------------------------------------------
+[ 2023-07-02T20:41:23+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.016824s] [吞吐率：59.44req/s] [内存消耗：2,007.72kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryVHYgN9Psf55ToFDB',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.000986s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:41:46+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.012570s] [吞吐率：79.55req/s] [内存消耗：1,801.45kb] [文件加载：36]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryG2Zo5HaAG3fN1Gdj',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '188',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001040s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:41:53+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.014711s] [吞吐率：67.98req/s] [内存消耗：2,003.72kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryfM7opU5YwsA6ZwYq',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001092s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:42:44+08:00 ] 0.0.0.0 POST localhost:81/index.php?s=api/upld/upload653
+[运行时间：0.014545s] [吞吐率：68.75req/s] [内存消耗：2,003.72kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundaryfXA3XdW9OUSyrzB3',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001087s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2023-07-02T20:44:50+08:00 ] 0.0.0.0 POST localhost:81/index.php/api/upld/upload653
+[运行时间：0.016951s] [吞吐率：58.99req/s] [内存消耗：2,000.85kb] [文件加载：37]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'upload653',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn',
+  'accept-language' => 'en-PH,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-US;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:81/upld.htm',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'content-type' => 'multipart/form-data; boundary=----WebKitFormBoundary023NAGU1nbbmb6oB',
+  'origin' => 'http://localhost:81',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'cache-control' => 'max-age=0',
+  'content-length' => '60102',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.001314s ]
+[ info ] [ RUN ] app\api\controller\Upld->upload653[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File
