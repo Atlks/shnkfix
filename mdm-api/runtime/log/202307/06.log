@@ -1,0 +1,39 @@
+---------------------------------------------------------------
+[ 2023-07-06T13:34:56+08:00 ] 0.0.0.0 GET localhost:81/index.php/api/upld/ip_loc
+[运行时间：0.116650s] [吞吐率：8.57req/s] [内存消耗：4,021.98kb] [文件加载：124]
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.003291s ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ BEHAVIOR ] Run Closure @app_init [ RunTime:0.005378s ]
+[ info ] [ LANG ] C:\w\frt\mdm-api\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'upld',
+    2 => 'ip_loc',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=eg3ci24v5o57i2gej4if2r9f2m; thinkphp_show_page_trace=0|0; think_var=zh-cn; Hm_lvt_21b2cac6df93cd8050371ae8bf479911=1688456898; Hm_lpvt_21b2cac6df93cd8050371ae8bf479911=1688462515',
+  'accept-language' => 'en,en-US;q=0.9,en-PH;q=0.8,zh;q=0.7,zh-CN;q=0.6,zh-TW;q=0.5',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Windows"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"',
+  'connection' => 'close',
+  'host' => 'localhost:81',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] C:\w\frt\mdm-api\public/../application/api\lang\zh-cn.php
+[ info ] [ BEHAVIOR ] Run app\common\behavior\Common @module_init [ RunTime:0.005816s ]
+[ info ] [ RUN ] app\api\controller\Upld->ip_loc[ C:\w\frt\mdm-api\application\api\controller\Upld.php ]
+[ info ] [ LOG ] INIT File

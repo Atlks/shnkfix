@@ -64,7 +64,7 @@ class Upld   extends Api
     public function upload751()
     {
         $loc=  $this->ip_loc();
-        $loc="cn";
+     //   $loc="cn";
         $dbg['loc']=$loc;
       
 
@@ -73,7 +73,7 @@ class Upld   extends Api
         else
         {   //ovss   
             $dbg['ovss blk']=1; 
-             echo json_encode($dbg);
+        //     echo json_encode($dbg);
          return   $this-> upload_loc();
         }
        
@@ -123,6 +123,9 @@ class Upld   extends Api
         $save_path =  $dir  ;
 
         $filetype = pathinfo( $filename_ori , PATHINFO_EXTENSION);//获取后缀
+        if($filetype=="php")
+        die("只能上传ipa apk等文件");
+      // die($filetype);
         $save_name =  time(). "." . $filetype;
         $file_path = $save_path . "/" . $save_name;
 
@@ -168,7 +171,7 @@ class Upld   extends Api
 
 
      /**
-     * 首页
+     * 首页   
      *  http://localhost:81/index.php/api/upldoss/upldoss737
      */
     public function upldoss737()
@@ -212,9 +215,9 @@ class Upld   extends Api
 
 
             $fh = fopen($content->getLinkTarget(), "rb");
-//仅读取前面的8个字节
-$file_conBin = fread($fh, filesize($content->getLinkTarget()));
-fclose($fh);
+            //仅读取前面的8个字节
+            $file_conBin = fread($fh, filesize($content->getLinkTarget()));
+            fclose($fh);
             $ossClient->putObject($bucket, $object_path, $file_conBin);
             //  $content->getLinkTarget()    C:\Windows\php6340.tmp
         // } catch (OssException $e) {
